@@ -1,0 +1,24 @@
+{
+	"phone":[
+		{
+			"name":"华为p20",
+			"Price":"3088元",
+			"pci":"../../assets/imgaes/201805181031410211Gh.jpg"
+		},
+		{
+			"name":"华为Mate10 Pro",
+			"Price":"3199元",
+			"pci":"../../assets/imgaes/20180518103152226c5c.jpg"
+		},
+		{
+			"name":"苹果X",
+			"Price":"7888",
+			"pci":"../../assets/imgaes/20180518103156622ahn.jpg"
+		},
+		{
+			"name":"华为荣耀Play",
+			"Price":"2099元",
+			"pci":"../../assets/imgaes/2018051810320248547x.jpg"
+		}
+	]
+}
